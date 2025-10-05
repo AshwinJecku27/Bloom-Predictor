@@ -1,3 +1,5 @@
+# We acknowledge that portions of this code was created with assistance from an artificial intelligence (AI) model. However, all ideas and concepts are original to the creators.
+
 import requests
 import pandas as pd
 import numpy as np
